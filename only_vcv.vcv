@@ -230,7 +230,7 @@
         },
         {
           "id": 44,
-          "value": 1.0
+          "value": 0.0
         },
         {
           "id": 45,
@@ -1153,7 +1153,7 @@
         },
         {
           "id": 56,
-          "value": -0.0494344234
+          "value": 0.337942302
         },
         {
           "id": 57,
@@ -1261,7 +1261,7 @@
         },
         {
           "id": 83,
-          "value": 1.0
+          "value": 0.888999999
         },
         {
           "id": 84,
@@ -2231,7 +2231,7 @@
             "sensitivity": 0.5,
             "gainAdjustSc": 1.0,
             "gridX": 16,
-            "rangeIndex": 8,
+            "rangeIndex": 0,
             "channelSettings": 768,
             "channelSettings2": 65552,
             "presetPath": "",
@@ -2306,8 +2306,8 @@
                 0.583333313,
                 0.0833333358,
                 0.0833333358,
-                0.916666687,
-                0.916666687,
+                0.899999976,
+                0.899999976,
                 0.125,
                 0.125,
                 0.416666657,
@@ -3349,7 +3349,7 @@
             "playHeadSettings3": 0
           }
         ],
-        "currChan": 1
+        "currChan": 3
       },
       "pos": [
         65,
@@ -4738,7 +4738,7 @@
         },
         {
           "id": 176,
-          "value": 0.0
+          "value": -0.443438441
         },
         {
           "id": 177,
@@ -4790,7 +4790,7 @@
         },
         {
           "id": 189,
-          "value": 5.0
+          "value": 0.0
         },
         {
           "id": 190,
@@ -4845,8 +4845,8 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 1756,
-      "rightModuleId": 1744,
+      "leftModuleId": 1744,
+      "rightModuleId": 1451,
       "data": {
         "running": true,
         "ppqn": 48,
@@ -4862,7 +4862,7 @@
             "lpfCutoffSqFreq": 144.913773,
             "sensitivity": 0.5,
             "gainAdjustSc": 1.0,
-            "gridX": 64,
+            "gridX": 16,
             "rangeIndex": 0,
             "channelSettings": 0,
             "channelSettings2": 65552,
@@ -4930,28 +4930,10 @@
                 0.359375,
                 0.374900013,
                 0.375,
-                0.390525013,
-                0.390625,
-                0.406150013,
-                0.40625,
-                0.421775013,
-                0.421875,
                 0.437400013,
                 0.4375,
-                0.453025013,
-                0.453125,
-                0.468650013,
-                0.46875,
-                0.484275013,
-                0.484375,
                 0.499900013,
                 0.5,
-                0.515524983,
-                0.515625,
-                0.531149983,
-                0.53125,
-                0.546774983,
-                0.546875,
                 0.562399983,
                 0.5625,
                 0.578024983,
@@ -5060,28 +5042,10 @@
                 0.699999988,
                 0.699999988,
                 0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
-                0.699999988,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
                 0.699999988,
                 0.699999988,
                 0.699999988,
@@ -5253,24 +5217,6 @@
                 0.5,
                 0.5,
                 0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
-                0.5,
                 0.5
               ],
               "type": [
@@ -5384,27 +5330,9 @@
                 0,
                 0,
                 0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
                 0
               ],
-              "numPts": 129
+              "numPts": 111
             },
             "playMode": 0,
             "triggerMode": 4,
@@ -5441,28 +5369,82 @@
             "shape": {
               "pointsX": [
                 0.0,
+                0.124899998,
+                0.125,
+                0.187399998,
+                0.1875,
+                0.249899998,
+                0.25,
+                0.312400013,
+                0.3125,
                 0.374900013,
                 0.375,
                 0.437400013,
                 0.4375,
                 0.499900013,
                 0.5,
+                0.562399983,
+                0.5625,
+                0.624899983,
+                0.625,
+                0.687399983,
+                0.6875,
+                0.749899983,
+                0.75,
+                0.812399983,
+                0.8125,
                 0.999899983,
                 1.0
               ],
               "pointsY": [
                 0.0,
                 0.0,
+                0.100000001,
+                0.100000001,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
                 0.200000003,
                 0.200000003,
                 0.0,
                 0.0,
+                0.0,
+                0.0,
+                0.300000012,
+                0.300000012,
+                0.200000003,
+                0.200000003,
+                0.300000012,
+                0.300000012,
+                0.200000003,
+                0.200000003,
                 0.0,
                 0.0,
                 0.0
               ],
               "ctrl": [
                 0.193404764,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
                 0.5,
                 0.5,
                 0.5,
@@ -5481,9 +5463,27 @@
                 0,
                 0,
                 0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0
               ],
-              "numPts": 9
+              "numPts": 27
             },
             "playMode": 0,
             "triggerMode": 4,
@@ -5500,14 +5500,14 @@
             "lpfCutoffSqFreq": 141.456711,
             "sensitivity": 0.0,
             "gainAdjustSc": 1.0,
-            "gridX": 64,
+            "gridX": 16,
             "rangeIndex": 0,
             "channelSettings": 512,
             "channelSettings2": 65552,
             "presetPath": "C:\\Users\\dwat3r\\DOCUME~1/Rack/plugins-v1/MindMeldModular/res/ShapeMaster/MindMeldPresets/Ducking/Duck 16th beat.smpr",
             "shapePath": "",
             "gainAdjustVca": 1.0,
-            "chanName": "hh",
+            "chanName": "fugue",
             "r_numNodesMin": 5.0,
             "r_numNodesMax": 30.0,
             "r_ctrlMax": 100.0,
@@ -5520,16 +5520,21 @@
             "shape": {
               "pointsX": [
                 0.0,
-                0.0318725705,
-                0.251337469,
                 0.499900013,
-                0.746705055,
-                0.780146003,
-                0.957809746,
+                0.5,
+                0.562399983,
+                0.5625,
+                0.624899983,
+                0.625,
+                0.687399983,
+                0.6875,
+                0.749899983,
+                0.75,
                 0.999899983,
                 1.0
               ],
               "pointsY": [
+                0.0,
                 0.0,
                 1.0,
                 1.0,
@@ -5537,6 +5542,9 @@
                 1.0,
                 1.0,
                 1.0,
+                1.0,
+                1.0,
+                0.0,
                 0.0,
                 0.0
               ],
@@ -5547,7 +5555,11 @@
                 0.5,
                 0.5,
                 0.5,
-                0.853471577,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
                 0.5,
                 0.5
               ],
@@ -5560,9 +5572,13 @@
                 0,
                 0,
                 0,
+                0,
+                0,
+                0,
+                0,
                 0
               ],
-              "numPts": 9
+              "numPts": 13
             },
             "playMode": 0,
             "triggerMode": 4,
@@ -5754,7 +5770,7 @@
             "lpfCutoffSqFreq": 144.913773,
             "sensitivity": 0.5,
             "gainAdjustSc": 1.0,
-            "gridX": 64,
+            "gridX": 16,
             "rangeIndex": 0,
             "channelSettings": 0,
             "channelSettings2": 65552,
@@ -5775,24 +5791,42 @@
               "pointsX": [
                 0.0,
                 0.03125,
-                0.459259182,
-                0.739359379,
-                0.853945851,
+                0.374900013,
+                0.375,
+                0.437400013,
+                0.4375,
+                0.499900013,
+                0.5,
+                0.562399983,
+                0.5625,
+                0.989614427,
                 1.0
               ],
               "pointsY": [
                 0.0,
                 1.0,
                 1.0,
-                1.0,
-                0.436947882,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.000702416059,
+                0.0,
                 0.0
               ],
               "ctrl": [
                 0.0102526825,
                 0.627396822,
-                0.927117348,
-                0.489224166,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
                 0.505559325,
                 0.5
               ],
@@ -5802,9 +5836,15 @@
                 0,
                 0,
                 0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0
               ],
-              "numPts": 6
+              "numPts": 12
             },
             "playMode": 0,
             "triggerMode": 4,
@@ -5887,10 +5927,10 @@
                 1.0,
                 1.0,
                 1.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
                 1.0,
                 1.0,
                 1.0,
@@ -6035,9 +6075,9 @@
                 0.562399983,
                 0.5625,
                 0.624899983,
-                0.664987624,
+                0.625,
                 0.687399983,
-                0.744108975,
+                0.6875,
                 0.749899983,
                 0.75,
                 0.812399983,
@@ -6062,26 +6102,26 @@
                 0.0,
                 0.0,
                 0.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
                 0.0,
                 0.0,
-                1.0,
-                1.0,
-                1.0,
-                1.0,
-                0.800000012,
-                0.699999988,
-                0.899999976,
-                0.899999976,
-                0.899999976,
-                0.899999976,
-                0.899999976,
-                0.800000012,
-                0.899999976,
-                0.899999976,
-                0.899999976,
-                0.899999976,
-                0.899999976,
-                0.899999976,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
                 0.0
               ],
               "ctrl": [
@@ -6168,17 +6208,17 @@
           },
           {
             "hpfCutoffSqFreq": 3.60555124,
-            "lpfCutoffSqFreq": 144.913773,
-            "sensitivity": 0.5,
+            "lpfCutoffSqFreq": 141.456711,
+            "sensitivity": 0.0,
             "gainAdjustSc": 1.0,
-            "gridX": 64,
+            "gridX": 16,
             "rangeIndex": 0,
-            "channelSettings": 1792,
+            "channelSettings": 512,
             "channelSettings2": 65552,
-            "presetPath": "",
+            "presetPath": "C:\\Users\\dwat3r\\DOCUME~1/Rack/plugins-v1/MindMeldModular/res/ShapeMaster/MindMeldPresets/Ducking/Duck 16th beat.smpr",
             "shapePath": "",
             "gainAdjustVca": 1.0,
-            "chanName": "chrp",
+            "chanName": "fugue",
             "r_numNodesMin": 5.0,
             "r_numNodesMax": 30.0,
             "r_ctrlMax": 100.0,
@@ -6191,19 +6231,43 @@
             "shape": {
               "pointsX": [
                 0.0,
-                0.03125,
-                0.0626000017,
-                0.976962209,
+                0.499900013,
+                0.5,
+                0.562399983,
+                0.5625,
+                0.624899983,
+                0.625,
+                0.687399983,
+                0.6875,
+                0.749899983,
+                0.75,
+                0.999899983,
                 1.0
               ],
               "pointsY": [
+                0.0,
+                0.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
                 1.0,
                 0.0,
                 0.0,
-                0.0,
-                1.0
+                0.0
               ],
               "ctrl": [
+                0.126140848,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
                 0.5,
                 0.5,
                 0.5,
@@ -6215,14 +6279,22 @@
                 0,
                 0,
                 0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0
               ],
-              "numPts": 5
+              "numPts": 13
             },
             "playMode": 0,
             "triggerMode": 4,
             "hysteresis": 0.200000003,
-            "holdOff": 0.00999999978,
+            "holdOff": 0.0199999996,
             "loopStart": 0.5,
             "loopEndAndSustain": 0.75,
             "playHeadSettings": 16843008,
@@ -6230,10 +6302,10 @@
             "playHeadSettings3": 0
           }
         ],
-        "currChan": 5
+        "currChan": 7
       },
       "pos": [
-        55,
+        70,
         0
       ]
     },
@@ -7227,7 +7299,7 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 1744,
+      "leftModuleId": 1449,
       "rightModuleId": 1450,
       "data": {
         "facePlate": 0,
@@ -7803,7 +7875,7 @@
       "params": [
         {
           "id": 0,
-          "value": 0.38850078
+          "value": 0.423999965
         },
         {
           "id": 1,
@@ -7815,7 +7887,7 @@
         },
         {
           "id": 3,
-          "value": 0.400499612
+          "value": 0.496499687
         },
         {
           "id": 4,
@@ -7823,7 +7895,7 @@
         },
         {
           "id": 5,
-          "value": 1.31999874
+          "value": 1.36099982
         },
         {
           "id": 6,
@@ -7855,7 +7927,7 @@
         },
         {
           "id": 13,
-          "value": 0.562000155
+          "value": 0.361000091
         }
       ],
       "leftModuleId": 1497,
@@ -8477,12 +8549,13 @@
           "value": -128.0
         }
       ],
+      "leftModuleId": 1759,
       "rightModuleId": 1735,
       "data": {
         "gateMode": true
       },
       "pos": [
-        46,
+        49,
         0
       ]
     },
@@ -12980,14 +13053,14 @@
         }
       ],
       "leftModuleId": 1509,
-      "rightModuleId": 1756,
+      "rightModuleId": 1744,
       "data": {
         "gateMode": true,
         "transportSource": 2,
         "sync": true
       },
       "pos": [
-        49,
+        52,
         0
       ]
     },
@@ -13011,11 +13084,11 @@
         },
         {
           "id": 3,
-          "value": 0.5
+          "value": 0.373500347
         },
         {
           "id": 4,
-          "value": 0.5
+          "value": 0.217500001
         },
         {
           "id": 5,
@@ -13046,14 +13119,14 @@
           "value": 0.0
         }
       ],
-      "leftModuleId": 1449,
-      "rightModuleId": 1451,
+      "leftModuleId": 1735,
+      "rightModuleId": 1449,
       "data": {
         "path": "D:\\music_making\\synth\\vcv\\patches\\only_vcv\\drum_arrange.js",
-        "script": "config.frameDivider = 4\nconfig.bufferSize = 32\n\nfunction process(block) {\n\t// Per-block inputs:\n\t// block.knobs[i]\n\t// block.switches[i]\n\t\n\tfor (let j = 0; j < block.bufferSize; j++) {\n\t\t// Per-sample inputs:\n\t\t// block.inputs[i][j]\n\n\t\t// Per-sample outputs:\n\t\t// block.outputs[i][j]\n\t\tblock.outputs[0][j] = block.inputs[0][j] & 1 ? 10 : 0;\n\t\tblock.outputs[1][j] = block.inputs[0][j] & 2 ? 10 : 0;\n\t\tblock.outputs[2][j] = block.inputs[0][j] & 4 ? 10 : 0;\n\t}\n\n\t// Per-block outputs:\n\t// block.lights[i][color]\n\t// block.switchLights[i][color]\n}\n"
+        "script": "config.frameDivider = 4\nconfig.bufferSize = 32\n\nfunction quantize(input, division) {\n\treturn Math.round(input * division) / division\n}\n\nlet prev = 0;\n\nfunction process(block) {\n\t// Per-block inputs:\n\t// block.knobs[i]\n\t// block.switches[i]\n\t\n\tfor (let j = 0; j < block.bufferSize; j++) {\n\t\t// Per-sample inputs:\n\t\t// block.inputs[i][j]\n\n\t\t// Per-sample outputs:\n\t\t// block.outputs[i][j]\n\n\t\t// drum arrangement by bitpacking a sequence\n\t\tblock.outputs[0][j] = block.inputs[0][j] & 1 ? 10 : 0;\n\t\tblock.outputs[1][j] = block.inputs[0][j] & 2 ? 10 : 0;\n\t\tblock.outputs[2][j] = block.inputs[0][j] & 4 ? 10 : 0;\n\n\n\t\t// the idea to fix uneven loops: just quantize end knob to values which are dividers of the max input. (10V)\n\t\t// looping support by looping an input phase to an adjustable CV range by 2 knobs\n\t\t// start of loop\n\t\tlet [k3, k4] = [block.knobs[3], block.knobs[4]].map(k => quantize(k, 32) * 10)\n\t\tlet offset = k3;\n\t\t// end of loop\n\t\tlet end = k4 + offset > 10 ? 10 : k4 + offset;\n\n\t\tlet input = block.inputs[3][j]\n\t\tlet oin = offset + input;\n\t\tlet out = oin > end ? oin % end + offset : oin;\n\t\tblock.outputs[3][j] = out;\n\t\tblock.outputs[5][j] = prev > out + 0.1 ? 10 : 0;\n\t\tprev = block.outputs[3][j];\n\t}\n\n\t// Per-block outputs:\n\t// block.lights[i][color]\n\t// block.switchLights[i][color]\n}\n"
       },
       "pos": [
-        93,
+        55,
         0
       ]
     },
@@ -13073,7 +13146,7 @@
         },
         {
           "id": 2,
-          "value": 2.0
+          "value": 0.0
         }
       ],
       "leftModuleId": 1750,
@@ -13155,7 +13228,7 @@
         },
         {
           "id": 1,
-          "value": 0.115606532
+          "value": 0.148606509
         }
       ],
       "leftModuleId": 1749,
@@ -13189,7 +13262,7 @@
         },
         {
           "id": 3,
-          "value": -0.771000206
+          "value": -0.874000072
         },
         {
           "id": 4,
@@ -13316,28 +13389,112 @@
       ]
     },
     {
-      "id": 1756,
-      "plugin": "Bogaudio",
-      "version": "1.1.37",
-      "model": "Bogaudio-Offset",
+      "id": 1759,
+      "plugin": "ML_modules",
+      "version": "1.1.3",
+      "model": "Sum8",
+      "params": [],
+      "leftModuleId": 1760,
+      "rightModuleId": 1509,
+      "pos": [
+        46,
+        0
+      ]
+    },
+    {
+      "id": 1760,
+      "plugin": "ModularFungi",
+      "version": "1.1.4",
+      "model": "Opsylloscope",
       "params": [
         {
           "id": 0,
-          "value": 0.125999957
+          "value": 0.0
         },
         {
           "id": 1,
-          "value": 0.316229999
+          "value": 0.0
+        },
+        {
+          "id": 2,
+          "value": 0.0
+        },
+        {
+          "id": 3,
+          "value": 0.0
+        },
+        {
+          "id": 4,
+          "value": 6.0
+        },
+        {
+          "id": 5,
+          "value": 0.0
+        },
+        {
+          "id": 6,
+          "value": 0.0
+        },
+        {
+          "id": 7,
+          "value": 0.0
+        },
+        {
+          "id": 8,
+          "value": 0.0
+        },
+        {
+          "id": 9,
+          "value": 3.0
+        },
+        {
+          "id": 10,
+          "value": 1.0
+        },
+        {
+          "id": 11,
+          "value": 0.0
+        },
+        {
+          "id": 12,
+          "value": 1.5
+        },
+        {
+          "id": 13,
+          "value": 0.0
+        },
+        {
+          "id": 14,
+          "value": 1.0
+        },
+        {
+          "id": 15,
+          "value": 0.0
+        },
+        {
+          "id": 16,
+          "value": 0.0
+        },
+        {
+          "id": 17,
+          "value": 0.0
+        },
+        {
+          "id": 18,
+          "value": 0.0
+        },
+        {
+          "id": 19,
+          "value": 1.0
         }
       ],
-      "leftModuleId": 1735,
-      "rightModuleId": 1449,
+      "rightModuleId": 1759,
       "data": {
-        "disableOutputLimit": false,
-        "offset_first": false
+        "WidgetWidth": 300.0,
+        "bufferSize": 512
       },
       "pos": [
-        52,
+        26,
         0
       ]
     }
@@ -13589,14 +13746,6 @@
       "outputId": 1,
       "inputModuleId": 1509,
       "inputId": 1,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 850,
-      "outputModuleId": 1462,
-      "outputId": 7,
-      "inputModuleId": 1509,
-      "inputId": 2,
       "color": "#c9b70e"
     },
     {
@@ -14208,14 +14357,6 @@
       "color": "#202020"
     },
     {
-      "id": 1144,
-      "outputModuleId": 1449,
-      "outputId": 15,
-      "inputModuleId": 1415,
-      "inputId": 39,
-      "color": "#c91847"
-    },
-    {
       "id": 1274,
       "outputModuleId": 1602,
       "outputId": 6,
@@ -14600,84 +14741,132 @@
       "color": "#c91847"
     },
     {
-      "id": 1133,
-      "outputModuleId": 1756,
-      "outputId": 0,
-      "inputModuleId": 1449,
-      "inputId": 15,
+      "id": 1354,
+      "outputModuleId": 1744,
+      "outputId": 5,
+      "inputModuleId": 1759,
+      "inputId": 1,
       "color": "#c9b70e"
     },
     {
-      "id": 1132,
-      "outputModuleId": 1756,
-      "outputId": 0,
-      "inputModuleId": 1449,
-      "inputId": 14,
+      "id": 850,
+      "outputModuleId": 1462,
+      "outputId": 7,
+      "inputModuleId": 1759,
+      "inputId": 0,
       "color": "#c9b70e"
     },
     {
-      "id": 1131,
-      "outputModuleId": 1756,
+      "id": 1355,
+      "outputModuleId": 1759,
       "outputId": 0,
-      "inputModuleId": 1449,
-      "inputId": 13,
+      "inputModuleId": 1509,
+      "inputId": 2,
       "color": "#c9b70e"
     },
     {
-      "id": 1130,
-      "outputModuleId": 1756,
-      "outputId": 0,
+      "id": 1110,
+      "outputModuleId": 1744,
+      "outputId": 3,
       "inputModuleId": 1449,
-      "inputId": 11,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 1129,
-      "outputModuleId": 1756,
-      "outputId": 0,
-      "inputModuleId": 1449,
-      "inputId": 10,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 1128,
-      "outputModuleId": 1756,
-      "outputId": 0,
-      "inputModuleId": 1449,
-      "inputId": 9,
-      "color": "#c9b70e"
-    },
-    {
-      "id": 1127,
-      "outputModuleId": 1756,
-      "outputId": 0,
-      "inputModuleId": 1449,
-      "inputId": 8,
+      "inputId": 12,
       "color": "#c9b70e"
     },
     {
       "id": 785,
-      "outputModuleId": 1756,
-      "outputId": 0,
+      "outputModuleId": 1744,
+      "outputId": 3,
       "inputModuleId": 1401,
       "inputId": 15,
       "color": "#c9b70e"
     },
     {
-      "id": 1110,
-      "outputModuleId": 1756,
-      "outputId": 0,
+      "id": 1127,
+      "outputModuleId": 1744,
+      "outputId": 3,
       "inputModuleId": 1449,
-      "inputId": 12,
+      "inputId": 8,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1128,
+      "outputModuleId": 1744,
+      "outputId": 3,
+      "inputModuleId": 1449,
+      "inputId": 9,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1129,
+      "outputModuleId": 1744,
+      "outputId": 3,
+      "inputModuleId": 1449,
+      "inputId": 10,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1130,
+      "outputModuleId": 1744,
+      "outputId": 3,
+      "inputModuleId": 1449,
+      "inputId": 11,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1131,
+      "outputModuleId": 1744,
+      "outputId": 3,
+      "inputModuleId": 1449,
+      "inputId": 13,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1132,
+      "outputModuleId": 1744,
+      "outputId": 3,
+      "inputModuleId": 1449,
+      "inputId": 14,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1133,
+      "outputModuleId": 1744,
+      "outputId": 3,
+      "inputModuleId": 1449,
+      "inputId": 15,
       "color": "#c9b70e"
     },
     {
       "id": 1326,
       "outputModuleId": 1735,
       "outputId": 1,
-      "inputModuleId": 1756,
-      "inputId": 2,
+      "inputModuleId": 1744,
+      "inputId": 3,
       "color": "#c9b70e"
+    },
+    {
+      "id": 1356,
+      "outputModuleId": 1735,
+      "outputId": 1,
+      "inputModuleId": 1760,
+      "inputId": 0,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1357,
+      "outputModuleId": 1744,
+      "outputId": 3,
+      "inputModuleId": 1760,
+      "inputId": 1,
+      "color": "#c9b70e"
+    },
+    {
+      "id": 1358,
+      "outputModuleId": 1449,
+      "outputId": 15,
+      "inputModuleId": 1415,
+      "inputId": 40,
+      "color": "#c91847"
     }
   ]
 }
